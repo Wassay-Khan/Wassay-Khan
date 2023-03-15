@@ -1,0 +1,23 @@
+html {
+    background-color: #C9CBA3 !important;
+}
+
+body {
+    margin-top: 2em !important;
+}
+
+footer {
+    margin-bottom: 2em !important;
+}
+
+.email {
+    color: rgb(16, 16, 157) !important;
+}
+
+.uk-heading-divider {
+    border-color: #666 !important;
+}
+
+.uk-badge {
+    background-color: rgb(16, 16, 157) !important;
+}
